@@ -6,9 +6,7 @@ pip package manager
 
 Required Libraries:
 
-pip install streamlit pandas numpy matplotlib seaborn plotly
-pip install prophet scikit-learn tensorflow statsmodels xgboost
-pip install scipy
+pip install streamlit pandas numpy matplotlib seaborn plotly prophet scikit-learn tensorflow statsmodels xgboost scipy
 
 Running the Application:
 
